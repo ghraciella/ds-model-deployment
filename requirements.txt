@@ -1,0 +1,4 @@
+requests==2.31.0
+uvicorn==0.22.0
+fastapi==0.95.2
+skops==0.6.0
